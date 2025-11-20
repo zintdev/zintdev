@@ -53,8 +53,7 @@ Chào bạn, tôi là Trương Tấn Triệu (zintdev)!
         <code>Android (Java)</code>, <code>MVVM</code>, <code>Retrofit2</code>, <code>Glide</code>, <code>Google Maps API</code>, <code>Gradle (Groovy)</code>
       </p>
       <p>
-        <a href="[LINK TỚI REPO BACKEND]">🔗 GitHub Repo (Backend)</a> | 
-        <a href="[LINK TỚI REPO ANDROID]">🔗 GitHub Repo (Android)</a> |
+        <a href="https://github.com/J-Disc-Store">🔗 GitHub Project (Android/Web)</a> |
         <a href="[LINK VIDEO DEMO YOUTUBE]">🎬 Video Demo</a>
       </p>      
     </td> 
