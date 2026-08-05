@@ -207,13 +207,23 @@ A full-stack e-commerce platform for Japanese CDs, including a Spring Boot backe
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zintdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=zintdev&theme=dark&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zintdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+![](https://github-readme-stats.vercel.app/api?username=zintdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zintdev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zintdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=zintdev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
