@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="250" viewBox="0 0 850 250" role="img" aria-labelledby="title desc">
+  <title id="title">zintdev GitHub Activity</title>
+  <desc id="desc">Placeholder statistics card that will be replaced by GitHub Actions.</desc>
+  <rect width="850" height="250" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="848" height="248" rx="11" fill="none" stroke="#30363d"/>
+  <text x="40" y="55" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="28" font-weight="700">zintdev GitHub Activity</text>
+  <text x="40" y="100" fill="#58a6ff" font-family="Arial, sans-serif" font-size="21" font-weight="600">304 contributions in the last year</text>
+  <text x="40" y="140" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="18">19 repositories  •  10 followers  •  Data Engineering &amp; Software Engineering</text>
+  <text x="40" y="190" fill="#8b949e" font-family="Arial, sans-serif" font-size="16">Run “Update profile assets” once in the Actions tab to generate live statistics.</text>
+</svg>

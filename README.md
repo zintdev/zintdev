@@ -207,47 +207,29 @@ A full-stack e-commerce platform for Japanese CDs, including a Spring Boot backe
 
 # 📊 GitHub Stats
 
-<a href="https://github.com/zintdev">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zintdev&theme=github_dark" alt="GitHub Profile Details"/>
+<a href="https://github.com/cicirello/user-statistician">
+  <img src="./assets/userstats.svg" alt="zintdev GitHub statistics" width="850"/>
 </a>
 
-<br/>
-
-<a href="https://github.com/zintdev">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zintdev&theme=github_dark" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/zintdev">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zintdev&theme=github_dark" alt="Most Used Languages"/>
-</a>
-
-<br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=zintdev&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</a>
+<sub>The SVG is generated daily by GitHub Actions and stored inside this repository.</sub>
 
 </div>
-
-<div align="center">
 
 ## 🏆 GitHub Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=zintdev&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="GitHub Trophies"/>
-</a>
+<div align="center">
+
+| 🤝 Pair Extraordinaire | 🦈 Pull Shark ×2 | 🚀 YOLO | ⚡ Quickdraw |
+|:---:|:---:|:---:|:---:|
+| Co-authored commits | Merged pull requests | Merged without review | Closed an issue or PR quickly |
 
 </div>
-
-<div align="center">
 
 ### ✍️ Random Dev Quote
 
-<a href="https://github.com/PiyushSuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote"/>
-</a>
-
-</div>
-
+<!-- DEV_QUOTE_START -->
+> “Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson
+<!-- DEV_QUOTE_END -->
 ---
 
 <div align="center">
