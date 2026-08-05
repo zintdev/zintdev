@@ -228,7 +228,7 @@ A full-stack e-commerce platform for Japanese CDs, including a Spring Boot backe
 ### ✍️ Random Dev Quote
 
 <!-- DEV_QUOTE_START -->
-> “Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson
+> “The function of good software is to make the complex appear to be simple.” — Grady Booch
 <!-- DEV_QUOTE_END -->
 ---
 
