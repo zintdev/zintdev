@@ -207,9 +207,24 @@ A full-stack e-commerce platform for Japanese CDs, including a Spring Boot backe
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=zintdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zintdev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zintdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/zintdev">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zintdev&theme=github_dark" alt="GitHub Profile Details"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/zintdev">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zintdev&theme=github_dark" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/zintdev">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zintdev&theme=github_dark" alt="Most Used Languages"/>
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=zintdev&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -217,13 +232,21 @@ A full-stack e-commerce platform for Japanese CDs, including a Spring Boot backe
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=zintdev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=zintdev&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
+<div align="center">
+
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://github.com/PiyushSuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote"/>
+</a>
+
+</div>
 
 ---
 
