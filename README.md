@@ -1,65 +1,137 @@
-# 💫 About Me
-Chào bạn, tôi là Trương Tấn Triệu (zintdev)!
+<div align="center">
 
-* 👨‍💻 Tôi là sinh viên kỹ thuật phần mềm (học kỳ 8/9) tại Đại học FPT.
-* 🎯 Mục tiêu của tôi là trở thành một **Bridge System Engineer (BrSE)**, kết hợp giữa kỹ năng kỹ thuật và hiểu biết nghiệp vụ.
-* 🚀 Tôi có kinh nghiệm xây dựng dự án với:
-    * **Backend:** Spring Boot, PostgreSQL, và JWT.
-    * **Android:** MVVM, Retrofit, và Glide.
-    * **Frontend:** React/Vue (khi cần thiết).
-* 🌱 Tôi đang tích cực:
-    * Học tiếng Nhật cho định hướng BrSE (Hiện tại mục tiêu N3).
-    * Trau dồi tiếng Anh.
-    * Theo đuổi chứng chỉ AWS (Cloud Practitioner) và tìm hiểu về DevOps & AI.
-* 🤝 Tôi là người chủ động, thích giao tiếp và luôn tò mò về công nghệ mới. Tôi đã có kinh nghiệm lead các nhóm nhỏ trong các dự án.
-* 📫 Tôi sẵn sàng cho các cơ hội thực tập, cộng tác và các dự án ý nghĩa.
+# Hi, I'm Trương Tấn Triệu 👋
 
-<br>
+### Data Engineer at FPT Software
 
-## 🚀 My Best Projects
+I build cloud data pipelines, lakehouse architectures, analytics-ready datasets, and monitoring solutions with Microsoft Fabric, Azure, AWS, Spark, SQL, and Python.
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>1. JCD Store (Full-Stack Android E-commerce)</h3>
-      <p>
-        Một nền tảng E-commerce (bán CD Nhật) đầy đủ chức năng, bao gồm một <strong>Backend API</strong> (Spring Boot) và một <strong>Ứng dụng Android</strong> (Java/MVVM).
-      </p>
-      <p>
-        <strong>Vai trò: Team Leader & System Architect</strong>
-        <br>
-        Với vai trò Trưởng nhóm, tôi chịu trách nhiệm:
-        <ul>
-          <li>Thiết kế toàn bộ kiến trúc hệ thống: <b>Clean Architecture</b> (Backend) và <b>MVVM</b> (Android).</li>
-          <li>Thiết kế Database (PostgreSQL) và các luồng nghiệp vụ (flow).</li>
-          <li>Triển khai các tính năng cốt lõi của backend (Security, Auth, CSDL) và phân công công việc cho các thành viên.</li>
-        </ul>
-      </p>
-      <p><strong>Các Tính năng nổi bật:</strong></p>
-      <ul>
-        <li><b>Xác thực & Phân quyền (RBAC):</b> Sử dụng <b>Spring Security</b> và <b>JWT</b> để quản lý 3 vai trò (Admin, Staff, User).</li>
-        <li><b>Hệ thống E-commerce:</b> Quản lý giỏ hàng, đặt hàng, và cập nhật trạng thái đơn hàng.</li>
-        <li><b>Chat Real-time:</b> Tích hợp <b>Firebase RTDB</b> cho phép Admin và User chat/hỗ trợ trực tuyến.</li>
-        <li><b>Tích hợp Maps:</b> Sử dụng Google Maps API cho phép người dùng xem vị trí cửa hàng và chọn điểm pick-up.</li>
-        <li><b>Quản lý (Admin/Staff):</b> Giao diện quản lý kho hàng, phân công nhân viên, và duyệt đơn.</li>
-        <li><b>API Documentation:</b> Tự động tạo tài liệu API với <b>SpringDoc (Swagger)</b>.</li>
-      </ul>
-      <p>
-        <strong>Tech Stack (Backend):</strong> 
-        <code>Spring Boot</code>, <code>Spring Security (JWT)</code>, <code>JPA/Hibernate</code>, <code>PostgreSQL</code>, <code>Firebase Admin SDK</code>, <code>Swagger</code>
-      </p>
-      <p>
-        <strong>Tech Stack (Frontend):</strong> 
-        <code>Android (Java)</code>, <code>MVVM</code>, <code>Retrofit2</code>, <code>Glide</code>, <code>Google Maps API</code>, <code>Gradle (Groovy)</code>
-      </p>
-      <p>
-        <a href="https://github.com/J-Disc-Store">🔗 GitHub Project (Android/Web)</a> |
-        <a href="[LINK VIDEO DEMO YOUTUBE]">🎬 Video Demo</a>
-      </p>      
-    </td> 
-  </tr> 
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trieu-truong-tan-458215334)
+[![GitHub](https://img.shields.io/badge/GitHub-zintdev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zintdev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:trieupqt2004@gmail.com)
 
+</div>
+
+---
+
+## 💫 About Me
+
+I am currently working at **FPT Software** as a **Data Engineer**, with responsibilities spanning data engineering and analytics.
+
+My background is in **Software Engineering and backend development**. Before specializing in data engineering, I worked with Java, Spring Boot, PostgreSQL, REST APIs, JWT, Android, and frontend technologies. This foundation helps me design data platforms as maintainable software systems, with attention to architecture, reliability, integration, testing, and documentation.
+
+- 🔭 Building data solutions with **Microsoft Fabric, Microsoft Azure, AWS, Apache Spark, SQL, and Python**
+- ⚙️ Working with **ETL/ELT, batch processing, incremental loading, orchestration, data quality, and monitoring**
+- 🏗️ Designing **Bronze–Silver–Gold lakehouse architectures**
+- 🔌 Integrating data from **REST APIs, SAP OData, PostgreSQL, CSV, and JSON**
+- 📊 Preparing analytics-ready datasets for reporting, customer analytics, and downstream analysis
+- 🌏 **English:** Professional working proficiency
+- 🇯🇵 **Japanese:** Basic communication, approximately JLPT N4 level; not certified
+
+---
+
+## 🚀 Featured Data Engineering Experience
+
+### Microsoft Fabric Pipeline Logging & Monitoring Framework
+
+A centralized monitoring solution for Microsoft Fabric data pipelines.
+
+- Integrated Microsoft Fabric REST APIs to retrieve pipeline execution metadata
+- Designed logging schemas for run IDs, pipeline names, timestamps, execution statuses, and error details
+- Parsed and standardized nested JSON responses
+- Stored historical execution metadata in Fabric Lakehouse tables
+- Implemented validation and error handling for successful, failed, cancelled, and partially completed runs
+- Investigated discrepancies between live pipeline statuses and historical logs
+
+**Tech Stack:**  
+`Microsoft Fabric REST API` `Fabric Lakehouse` `Fabric Data Pipeline` `SQL` `PySpark` `JSON`
+
+---
+
+### Azure Subscription & License Analytics Lakehouse
+
+A team-based mock project for subscription analytics across more than **1 million synthetic SaaS records**.
+
+- Designed an end-to-end Bronze, Silver, and Gold lakehouse
+- Built ingestion workflows for CSV, PostgreSQL, REST APIs, and JSON usage events
+- Developed PySpark and Spark SQL transformations for cleansing, standardization, deduplication, joins, and aggregation
+- Applied Delta Lake ACID transactions, schema enforcement, and incremental processing
+- Produced Gold-layer analytical tables for MRR, churn rate, customer lifetime value, and cohort retention
+- Implemented data-quality checks and supported testing, monitoring, troubleshooting, and documentation
+
+**Tech Stack:**  
+`Python` `SQL` `PySpark` `Spark SQL` `Azure Databricks` `ADLS Gen2` `Azure Data Factory` `Apache Airflow` `Delta Lake`
+
+---
+
+### SAP HR Analytics Lakehouse on AWS
+
+A cloud data platform for ingesting and transforming HR data from SAP OData services.
+
+- Developed Python ingestion jobs to extract SAP HR data and store raw JSON responses in Amazon S3
+- Organized datasets into Bronze, Silver, and Gold zones
+- Built AWS Glue and PySpark jobs to cleanse, standardize, deduplicate, and integrate HR data
+- Registered processed datasets in AWS Glue Data Catalog
+- Used Amazon Athena and SQL for validation and downstream analysis
+- Implemented reconciliation and data-quality checks for completeness, uniqueness, validity, and consistency
+
+**Tech Stack:**  
+`Python` `SQL` `PySpark` `Amazon S3` `AWS Glue` `AWS Glue Data Catalog` `Amazon Athena` `SAP OData`
+
+---
+
+### AICAMS Data Synchronization
+
+A batch integration workflow supporting AI-oriented analysis.
+
+- Developed batch jobs to synchronize data from Jira and GitHub APIs
+- Standardized source data for downstream processing
+- Focused on workflow reliability, data integrity, and cross-system consistency
+
+**Tech Stack:**  
+`Python` `REST APIs` `Jira API` `GitHub API` `Batch Processing`
+
+---
+
+### Customer Analytics with Applied Machine Learning
+
+A customer analytics workflow for churn prediction and support-ticket sentiment analysis.
+
+- Prepared model-ready datasets for customer churn prediction
+- Processed more than **20,000 support tickets**
+- Applied NLP sentiment analysis with Azure Cognitive Services
+- Integrated scikit-learn into the analytics workflow
+
+**Tech Stack:**  
+`Python` `scikit-learn` `Azure Cognitive Services` `NLP` `Data Preparation`
+
+---
+
+## 🧩 Software Engineering Background
+
+### JCD Store — Full-Stack Android E-commerce
+
+A full-stack e-commerce platform for Japanese CDs, including a Spring Boot backend and an Android application.
+
+**Role:** Team Leader & System Architect
+
+- Designed the overall system architecture using Clean Architecture for the backend and MVVM for Android
+- Designed PostgreSQL schemas and core business workflows
+- Implemented backend security, authentication, authorization, and database features
+- Coordinated tasks and technical decisions within the project team
+- Implemented role-based access control for Admin, Staff, and User roles
+- Built shopping cart, ordering, inventory, staff assignment, and order-management features
+- Integrated Firebase Realtime Database for chat
+- Integrated Google Maps for store locations and pickup-point selection
+- Generated API documentation with SpringDoc and Swagger
+
+**Backend:**  
+`Spring Boot` `Spring Security` `JWT` `JPA/Hibernate` `PostgreSQL` `Firebase Admin SDK` `Swagger`
+
+**Android:**  
+`Java` `MVVM` `Retrofit2` `Glide` `Google Maps API` `Gradle`
+
+[🔗 View the JCD Store organization](https://github.com/J-Disc-Store)
 
 ---
 
@@ -67,131 +139,93 @@ Chào bạn, tôi là Trương Tấn Triệu (zintdev)!
 
 # 💻 Tech Stack & Tools
 
-### Backend
-<p align="center">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://jwt.io" target="_blank">
-    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
-  </a>
-  <a href="https://socket.io" target="_blank">
-    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"/>
-  </a>
-  <a href="https://tomcat.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/>
-  </a>
+### Data Engineering & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square" alt="Delta Lake"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
 </p>
 
-### Mobile (Android)
-<p align="center">
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  </a>
-  <a href="https://gradle.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle"/>
-  </a>
-  <a href="https://groovy-lang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=Apache+Groovy&logoColor=white" alt="Groovy"/>
-  </a>
+### Cloud & Data Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Azure Databricks"/>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Factory"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Glue"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+  <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Athena"/>
 </p>
 
-### Frontend
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM"/>
-  </a>
+### Databases & Integration
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square" alt="REST API"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
 </p>
 
-### DevOps & Cloud
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-  </a>
+### Software Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
 </p>
 
-### Tools & Others
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  </a>
-  <a href="https://swagger.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
-  </a>
-  <a href="httpscplusplus.com/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
 </p>
 
 </div>
 
-<div align="center">
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zintdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zintdev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zintdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 🎓 Certification
 
-</div>
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zintdev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
 
 ---
 
 <div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trieupqt2004) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamzint) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trieu-truong-tan-458215334) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamzint) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trieupqt2004@gmail.com) 
+# 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=zintdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=zintdev&theme=dark&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zintdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Socials
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/trieupqt2004)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/iamzint)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/trieu-truong-tan-458215334)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iamzint)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:trieupqt2004@gmail.com)
 
 </div>
 
