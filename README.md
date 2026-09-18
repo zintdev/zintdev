@@ -228,7 +228,7 @@ A full-stack e-commerce platform for Japanese CDs, including a Spring Boot backe
 ### ✍️ Random Dev Quote
 
 <!-- DEV_QUOTE_START -->
-> “The function of good software is to make the complex appear to be simple.” — Grady Booch
+> “Make it work, make it right, make it fast.” — Kent Beck
 <!-- DEV_QUOTE_END -->
 ---
 
