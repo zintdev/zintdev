@@ -228,7 +228,7 @@ A full-stack e-commerce platform for Japanese CDs, including a Spring Boot backe
 ### ✍️ Random Dev Quote
 
 <!-- DEV_QUOTE_START -->
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+> “Make it work, make it right, make it fast.” — Kent Beck
 <!-- DEV_QUOTE_END -->
 ---
 
