@@ -228,7 +228,7 @@ A full-stack e-commerce platform for Japanese CDs, including a Spring Boot backe
 ### ✍️ Random Dev Quote
 
 <!-- DEV_QUOTE_START -->
-> “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra
+> “First, solve the problem. Then, write the code.” — John Johnson
 <!-- DEV_QUOTE_END -->
 ---
 
