@@ -228,7 +228,7 @@ A full-stack e-commerce platform for Japanese CDs, including a Spring Boot backe
 ### ✍️ Random Dev Quote
 
 <!-- DEV_QUOTE_START -->
-> “Make it work, make it right, make it fast.” — Kent Beck
+> “The best way to predict the future is to invent it.” — Alan Kay
 <!-- DEV_QUOTE_END -->
 ---
 
